@@ -1,6 +1,6 @@
 export function EmptyMemories() {
   return (
-    <div className="flex flex-1 items-center justify-center">
+    <div className="flex flex-1 items-center justify-center p-16">
       <p className="w-[368px] text-center leading-relaxed">
         {/* {" "} é uma forma de forçar o react a não reclamar da quebra de linha */}
         Você ainda não registrou nenhuma lembrança, comece a{" "}
